@@ -82,7 +82,7 @@
     "redux-thunk": "^2.1.0",
     "toposort": "^1.0.3",
     "url": "^0.11.0",
-    "validator": "^6.1.0"
+    "validator": "^13.15.22"
   },
   "devDependencies": {
     "@silverstripe/eslint-config": "^0.0.4",
